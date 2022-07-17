@@ -23,3 +23,6 @@ class Solution:
             return (nums[n // 2] + nums[n // 2 - 1]) / 2
         else:
             return nums[n//2]
+
+#TODO rewrite for "The overall run time complexity should be O(log (m+n))."
+
