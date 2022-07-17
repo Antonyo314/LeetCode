@@ -1,1 +1,1 @@
-two-sum.py https://leetcode.com/problems/two-sum/
+1.py https://leetcode.com/problems/two-sum/
