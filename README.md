@@ -4,3 +4,4 @@
 4.py https://leetcode.com/problems/median-of-two-sorted-arrays/
 5.py https://leetcode.com/problems/longest-palindromic-substring/
 6.py https://leetcode.com/problems/zigzag-conversion/
+7.py https://leetcode.com/problems/reverse-integer/
