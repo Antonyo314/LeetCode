@@ -6,3 +6,4 @@
 6.py https://leetcode.com/problems/zigzag-conversion/
 7.py https://leetcode.com/problems/reverse-integer/
 8.py https://leetcode.com/problems/string-to-integer-atoi/
+9.py https://leetcode.com/problems/palindrome-number/
