@@ -5,3 +5,4 @@
 5.py https://leetcode.com/problems/longest-palindromic-substring/
 6.py https://leetcode.com/problems/zigzag-conversion/
 7.py https://leetcode.com/problems/reverse-integer/
+8.py https://leetcode.com/problems/string-to-integer-atoi/
