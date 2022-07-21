@@ -14,3 +14,6 @@
 14.py https://leetcode.com/problems/longest-common-prefix/
 
 17.py https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+
+20.py https://leetcode.com/problems/valid-parentheses/
