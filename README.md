@@ -18,3 +18,5 @@
 18.py https://leetcode.com/problems/4sum/submissions/
 
 20.py https://leetcode.com/problems/valid-parentheses/
+
+22.py https://leetcode.com/problems/generate-parentheses/
