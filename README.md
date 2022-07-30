@@ -20,3 +20,5 @@
 20.py https://leetcode.com/problems/valid-parentheses/
 
 22.py https://leetcode.com/problems/generate-parentheses/
+
+26.py https://leetcode.com/problems/remove-duplicates-from-sorted-array/
