@@ -25,3 +25,5 @@
 27.py https://leetcode.com/problems/remove-element/
 28.py https://leetcode.com/problems/implement-strstr/
 29.py https://leetcode.com/problems/divide-two-integers/
+
+33.py https://leetcode.com/problems/search-in-rotated-sorted-array/
