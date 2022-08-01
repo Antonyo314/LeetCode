@@ -19,7 +19,7 @@ class Solution:
             return [-1, -1]
         i = k
         j = k
-
+        #TODO make O(log(n))
         while nums[max(i - 1, 0)] == target or nums[min(j + 1, len(nums) - 1)] == target:
             if i > 0 and nums[i - 1] == target:
                 i -= 1
