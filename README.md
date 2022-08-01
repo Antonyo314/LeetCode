@@ -27,3 +27,4 @@
 29.py https://leetcode.com/problems/divide-two-integers/
 
 33.py https://leetcode.com/problems/search-in-rotated-sorted-array/
+34.py https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
