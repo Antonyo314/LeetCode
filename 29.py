@@ -9,7 +9,12 @@ class Solution:
             return 0
 
     def divide(self, dividend: int, divisor: int) -> int:
-        sign_ = self.sign(dividend * divisor)
+        s1 = self.sign(dividend)
+        s2 = self.sign(divisor)
+        if s1 == s2:
+            sign_ = 1
+        else:
+            sign_ = -1
         dividend = abs(dividend)
         divisor = abs(divisor)
         res = 0
@@ -23,5 +28,9 @@ class Solution:
             res += i
             dividend -= d
 
-        return max(min(res * sign_, 2 ** 31 - 1), -2 ** 31)
+        if sign_ == -1:
+            t = res
+            res -= t
+            res -= t
 
+        return max(min(res, 2 ** 31 - 1), -2 ** 31)
