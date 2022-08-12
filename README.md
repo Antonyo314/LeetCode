@@ -46,3 +46,5 @@
 56.py https://leetcode.com/problems/merge-intervals/
 
 58.py https://leetcode.com/problems/length-of-last-word/
+
+62.py https://leetcode.com/problems/unique-paths/
