@@ -52,3 +52,4 @@
 64.py https://leetcode.com/problems/minimum-path-sum/
 
 66.py https://leetcode.com/problems/plus-one/
+67.py https://leetcode.com/problems/add-binary/
