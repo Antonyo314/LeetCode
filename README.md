@@ -53,3 +53,5 @@
 
 66.py https://leetcode.com/problems/plus-one/
 67.py https://leetcode.com/problems/add-binary/
+
+69.py https://leetcode.com/problems/sqrtx/
