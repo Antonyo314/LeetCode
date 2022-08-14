@@ -56,3 +56,5 @@
 
 69.py https://leetcode.com/problems/sqrtx/
 70.py https://leetcode.com/problems/climbing-stairs/submissions/
+
+73.py https://leetcode.com/problems/set-matrix-zeroes/
