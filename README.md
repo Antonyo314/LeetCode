@@ -66,3 +66,5 @@
 
 90.py https://leetcode.com/problems/subsets-ii/
 91.py https://leetcode.com/problems/decode-ways/
+
+118.py https://leetcode.com/problems/pascals-triangle/
