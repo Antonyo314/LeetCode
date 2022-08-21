@@ -70,3 +70,4 @@
 118.py https://leetcode.com/problems/pascals-triangle/
 119.py https://leetcode.com/problems/pascals-triangle-ii/
 120.py https://leetcode.com/problems/triangle/
+121.py https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
