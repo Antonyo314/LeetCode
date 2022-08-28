@@ -76,3 +76,5 @@
 125.py https://leetcode.com/problems/valid-palindrome/
 
 151.py https://leetcode.com/problems/reverse-words-in-a-string/
+
+202.py https://leetcode.com/problems/happy-number/
